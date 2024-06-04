@@ -1,3 +1,3 @@
 This is an offcanvas nabar with a Costa Rican Areanl Rain forest backgound... 
 Includes a dropdown menu and a search option. 
-
+<img width="1915" alt="Screenshot" src="https://github.com/stvnplm8/Offcanvas-navbar/assets/141971217/211910ac-1f42-4336-8e20-17ff978d1f96">
